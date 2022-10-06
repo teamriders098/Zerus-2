@@ -36,8 +36,8 @@ export default class command extends BaseCommand {
             }
         ]
         const buttonMessage = {
-            text: '*Congratulations 🎉 You have claimed Your Daily 1000 Gold*',
-            footer: '© ZeroTwo 2022',
+            text: '*Congratulations 🎉 You have claimed Your Daily 1000 Gold Check your wallet*',
+            footer: 'ZeRoTwO',
             buttons: buttons,
             headerType: 1
         }
