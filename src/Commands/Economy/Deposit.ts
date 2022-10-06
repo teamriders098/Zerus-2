@@ -28,7 +28,7 @@ export default class command extends BaseCommand {
         ]
         const buttonMessage = {
             text: `*🎉 You have transferred ${M.numbers[0]}*gold to ur Bank*`,
-            footer: 'Eternity',
+            footer: 'ZeRoTwO',
             buttons: buttons,
             headerType: 1
         }
